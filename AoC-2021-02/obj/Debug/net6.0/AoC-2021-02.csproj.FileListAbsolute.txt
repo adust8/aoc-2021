@@ -1,0 +1,16 @@
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\AoC-2021-02.exe
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\aoc-2021-02.txt
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\AoC-2021-02.deps.json
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\AoC-2021-02.runtimeconfig.json
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\AoC-2021-02.dll
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\ref\AoC-2021-02.dll
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\bin\Debug\net6.0\AoC-2021-02.pdb
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.csproj.AssemblyReference.cache
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.AssemblyInfoInputs.cache
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.AssemblyInfo.cs
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.csproj.CoreCompileInputs.cache
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.dll
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\ref\AoC-2021-02.dll
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.pdb
+C:\Users\baki\Desktop\AoC-2021\AoC-2021\AoC-2021-02\obj\Debug\net6.0\AoC-2021-02.genruntimeconfig.cache
