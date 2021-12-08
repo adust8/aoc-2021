@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baki\\Desktop\\AoC-2021\\AoC-2021\\AoC-2021-01\\AoC-2021-01.csproj": {}
+    "G:\\Моё\\MyProjects\\C# projects\\ConsoleProjects\\AoC\\AoC-2021-01\\AoC-2021-01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baki\\Desktop\\AoC-2021\\AoC-2021\\AoC-2021-01\\AoC-2021-01.csproj": {
+    "G:\\Моё\\MyProjects\\C# projects\\ConsoleProjects\\AoC\\AoC-2021-01\\AoC-2021-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baki\\Desktop\\AoC-2021\\AoC-2021\\AoC-2021-01\\AoC-2021-01.csproj",
+        "projectUniqueName": "G:\\Моё\\MyProjects\\C# projects\\ConsoleProjects\\AoC\\AoC-2021-01\\AoC-2021-01.csproj",
         "projectName": "AoC-2021-01",
-        "projectPath": "C:\\Users\\baki\\Desktop\\AoC-2021\\AoC-2021\\AoC-2021-01\\AoC-2021-01.csproj",
-        "packagesPath": "C:\\Users\\baki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baki\\Desktop\\AoC-2021\\AoC-2021\\AoC-2021-01\\obj\\",
+        "projectPath": "G:\\Моё\\MyProjects\\C# projects\\ConsoleProjects\\AoC\\AoC-2021-01\\AoC-2021-01.csproj",
+        "packagesPath": "C:\\Users\\Lorii\\.nuget\\packages\\",
+        "outputPath": "G:\\Моё\\MyProjects\\C# projects\\ConsoleProjects\\AoC\\AoC-2021-01\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\baki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lorii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
