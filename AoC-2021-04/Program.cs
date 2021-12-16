@@ -81,25 +81,40 @@ bool IsWin(int[,] matrix, int row, int col)
 
 int Bingo()
 {
+    var winners = new List<int[,]>();
+    var uMatrixes = new List<int[,]>(matrixes); 
+    var sum = 0;
+    var lastN = 0;
     foreach (var number in numbers)
-    foreach (var matr in matrixes)
     {
-        var indexes = GetIndexOfMarkedNumber(matr, number);
-        foreach (var index in indexes)
+        foreach (var matr in matrixes)
         {
-            matr[index.row, index.col] = -1;
-
-            if (IsWin(matr, index.row, index.col))
+            if (uMatrixes.Contains(matr))
             {
-                var sum = 0;
-                for (var q = 0; q < 5; q++)
-                for (var z = 0; z < 5; z++)
-                    if (matr[q, z] != -1)
-                        sum += matr[q, z];
-                return sum * number;
+                var indexes = GetIndexOfMarkedNumber(matr, number);
+                foreach (var index in indexes)
+                {
+                    matr[index.row, index.col] = -1;
+
+                    if (IsWin(matr, index.row, index.col) && uMatrixes.Contains(matr))
+                    {
+                        winners.Add(matr);
+                        uMatrixes.Remove(matr);
+                        lastN = number;
+                    }
+                }
             }
         }
     }
+    return CalcSum(winners.Last(),lastN);
+}
 
-    return 1;
+int CalcSum(int[,] matr,int number)
+{
+    var sum = 0;
+    for (var q = 0; q < 5; q++)
+    for (var z = 0; z < 5; z++)
+        if (matr[q, z] != -1)
+            sum += matr[q, z];
+    return sum * number;
 }

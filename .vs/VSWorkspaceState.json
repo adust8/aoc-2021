@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AoC-2021-04"
   ],
-  "SelectedNode": "\\AoC-2021.sln",
+  "SelectedNode": "\\AoC-2021-04\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
