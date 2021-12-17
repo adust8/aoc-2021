@@ -20,7 +20,12 @@
       "ProjectGuid": "72e8845e-2851-4e2c-a5c1-1619a8f522f2",
       "DisplayName": "AoC-2021-04",
       "ColorIndex": 3
+    },
+    "59168513-6d78-46d3-8b15-cc765213ab3b": {
+      "ProjectGuid": "59168513-6d78-46d3-8b15-cc765213ab3b",
+      "DisplayName": "AoC-2021-05",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

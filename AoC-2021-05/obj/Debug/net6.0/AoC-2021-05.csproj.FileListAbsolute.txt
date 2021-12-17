@@ -1,0 +1,16 @@
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\AoC-2021-05.exe
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\AoC-2021-05.deps.json
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\AoC-2021-05.runtimeconfig.json
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\AoC-2021-05.dll
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\ref\AoC-2021-05.dll
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\AoC-2021-05.pdb
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.csproj.AssemblyReference.cache
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.GeneratedMSBuildEditorConfig.editorconfig
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.AssemblyInfoInputs.cache
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.AssemblyInfo.cs
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.csproj.CoreCompileInputs.cache
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.dll
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\ref\AoC-2021-05.dll
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.pdb
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\obj\Debug\net6.0\AoC-2021-05.genruntimeconfig.cache
+G:\Моё\MyProjects\C# projects\ConsoleProjects\AoC\AoC-2021-05\bin\Debug\net6.0\aoc-2021-05.txt
